@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackGround1.png</file>
+        <file>res/BackGround2.png</file>
+        <file>res/kuro.png</file>
+        <file>res/main_menu.png</file>
+        <file>res/opponent_no.png</file>
+        <file>res/opponent_ok.png</file>
+        <file>res/shiro.png</file>
+        <file>res/Title1.png</file>
+        <file>res/bg.jpg</file>
+    </qresource>
+</RCC>
